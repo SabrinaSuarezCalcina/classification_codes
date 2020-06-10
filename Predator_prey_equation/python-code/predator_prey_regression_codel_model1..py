@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jun  9 18:20:43 2019
+Created on Tue Jun  9 18:20:43 2018
 
-@author: sabrina
+@author: Sabrina & Marcio
 """
 from sklearn.svm import NuSVR
 from sklearn.grid_search import GridSearchCV
